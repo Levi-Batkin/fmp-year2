@@ -1,0 +1,10 @@
+
+=== Thu Apr 27 11:40:03 2023
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.render-pipelines.high-definition@12.1.0
+  com.unity.render-pipelines.universal@12.1.0
+  com.unity.shadergraph@12.1.0
